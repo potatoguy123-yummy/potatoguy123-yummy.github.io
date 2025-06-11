@@ -1,3 +1,9 @@
 User-agent: *
 Allow: /wdd130/wwr/
-Disallow: /
+Disallow: /wdd130/week02/
+Disallow: /wdd130/week03/
+Disallow: /wdd130/week05/
+Disallow: /wdd130/styles/
+Disallow: /wdd130/planning/
+Disallow: /wdd130/images/
+Disallow: /wdd130/index.html
