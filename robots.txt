@@ -1,8 +1,5 @@
 User-agent: *
-Allow: /wdd130/wwr/about.html
-Allow: /wdd130/wwr/contact.html
-Allow: /wdd130/wwr/index.html
-Allow: /wdd130/wwr/trips.html
+Allow: /wdd130/wwr/
 Disallow: /wdd130/week02/
 Disallow: /wdd130/week03/
 Disallow: /wdd130/week05/
